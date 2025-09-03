@@ -1,0 +1,183 @@
+# ChainBag Wallet Privacy Policy
+
+**Last Updated:** December 2024  
+**Version:** 1.0.0
+
+## 1. Introduction
+
+ChainBag Wallet ("we," "our," or "us") is committed to protecting your privacy and ensuring the security of your cryptocurrency assets. This Privacy Policy explains how we collect, use, store, and protect your information when you use our Chrome extension wallet.
+
+## 2. Information We Collect
+
+### 2.1 Information You Provide
+- **Account Information**: Email address, display name, and profile photo (when using Google or Apple sign-in)
+- **Wallet Data**: Recovery phrases, account addresses, and wallet settings
+- **Authentication Data**: Passwords and session information
+- **Transaction Data**: Transaction details, recipient addresses, and amounts
+
+### 2.2 Automatically Collected Information
+- **Extension Usage**: Feature usage, network connections, and dApp interactions
+- **Technical Data**: Browser information, extension version, and device details
+- **Network Data**: Blockchain network interactions and transaction status
+- **Error Logs**: Technical errors and debugging information
+
+### 2.3 Third-Party Services
+- **Firebase Authentication**: User authentication and account management
+- **Blockchain Networks**: Transaction broadcasting and balance queries
+- **External APIs**: Price feeds (CoinGecko) and blockchain data (Etherscan)
+
+## 3. How We Use Your Information
+
+### 3.1 Core Wallet Functions
+- **Wallet Management**: Creating, importing, and managing cryptocurrency wallets
+- **Transaction Processing**: Signing, broadcasting, and tracking transactions
+- **Account Management**: Managing multiple accounts and addresses
+- **Network Operations**: Connecting to various blockchain networks
+
+### 3.2 Security and Authentication
+- **User Authentication**: Verifying your identity and managing login sessions
+- **Data Encryption**: Securing your wallet data with AES-256 encryption
+- **Session Management**: Maintaining secure wallet unlock sessions
+- **Fraud Prevention**: Detecting and preventing unauthorized access
+
+### 3.3 Service Improvement
+- **Performance Optimization**: Improving extension performance and reliability
+- **Feature Development**: Developing new features based on usage patterns
+- **Bug Fixes**: Identifying and resolving technical issues
+- **User Experience**: Enhancing the overall user experience
+
+## 4. Data Storage and Security
+
+### 4.1 Local Storage
+- **Chrome Storage**: Using Chrome's secure storage APIs for wallet data
+- **Session Storage**: Temporary storage for sensitive data during active sessions
+- **Encryption**: All sensitive data is encrypted using AES-256 with PBKDF2 key derivation
+- **No Private Key Storage**: Private keys are generated on-demand and never stored
+
+### 4.2 Data Encryption
+- **Vault Encryption**: Wallet vaults are encrypted with your password
+- **Session Security**: Sensitive data is cleared when sessions expire
+- **Key Derivation**: Using PBKDF2 with 1000 iterations for key generation
+- **Salt Generation**: Unique salt values for each encryption operation
+
+### 4.3 Security Measures
+- **Password Protection**: All wallet operations require your password
+- **Session Timeouts**: Automatic wallet locking after inactivity
+- **Secure Communication**: HTTPS encryption for all external API calls
+- **Access Controls**: Strict permissions limiting extension capabilities
+
+## 5. Data Sharing and Third Parties
+
+### 5.1 We Do Not Share
+- **Private Keys**: Never shared with anyone, including our servers
+- **Recovery Phrases**: Stored locally and encrypted on your device
+- **Transaction Details**: Only shared with blockchain networks when necessary
+- **Personal Information**: Not sold to third parties for marketing purposes
+
+### 5.2 Required Sharing
+- **Blockchain Networks**: Transaction data must be shared for processing
+- **External APIs**: Limited data shared for price feeds and blockchain queries
+- **Firebase**: Authentication data for account management
+- **Legal Requirements**: When required by law or court order
+
+### 5.3 Third-Party Services
+- **Firebase (Google)**: Authentication and user management
+- **Etherscan**: Ethereum blockchain data and transaction status
+- **CoinGecko**: Cryptocurrency price information
+- **Chrome Web Store**: Extension distribution and updates
+
+## 6. Your Rights and Choices
+
+### 6.1 Data Control
+- **Export Data**: You can export your wallet data at any time
+- **Delete Account**: You can delete your account and all associated data
+- **Wallet Backup**: You can create encrypted backups of your wallet
+- **Account Management**: You can manage multiple accounts within the wallet
+
+### 6.2 Privacy Settings
+- **Session Duration**: Control how long your wallet stays unlocked
+- **Auto-Lock**: Set automatic wallet locking after inactivity
+- **Network Selection**: Choose which blockchain networks to connect to
+- **dApp Permissions**: Control which decentralized applications can access your wallet
+
+### 6.3 Opt-Out Options
+- **Analytics**: Opt out of usage analytics and performance monitoring
+- **Notifications**: Control notification preferences
+- **Auto-Updates**: Manage automatic extension updates
+- **Feature Usage**: Disable specific features that collect additional data
+
+## 7. Data Retention
+
+### 7.1 Local Data
+- **Wallet Data**: Retained until you delete your account or uninstall the extension
+- **Session Data**: Automatically cleared when sessions expire or wallet is locked
+- **Transaction History**: Stored locally and retained until manually deleted
+- **Settings**: Retained until you change or reset them
+
+### 7.2 Server Data
+- **Authentication**: Retained for account management and security
+- **Usage Analytics**: Retained for up to 2 years for service improvement
+- **Error Logs**: Retained for up to 90 days for debugging purposes
+- **Support Data**: Retained until support requests are resolved
+
+## 8. Children's Privacy
+
+Our extension is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
+
+## 9. International Data Transfers
+
+Your data may be processed and stored in countries other than your own. We ensure that all data transfers comply with applicable data protection laws and implement appropriate safeguards to protect your information.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+- Posting the updated policy in the extension
+- Sending notifications through the extension
+- Updating the "Last Updated" date at the top of this policy
+
+## 11. Contact Information
+
+If you have any questions about this Privacy Policy or our data practices, please contact us:
+
+- **Email**: privacy@chainbag.io
+- **Support**: support@chainbag.io
+- **Website**: https://chainbag.io
+
+## 12. Legal Basis for Processing (EU Users)
+
+For users in the European Union, we process your data based on:
+- **Consent**: When you agree to use our services
+- **Contract**: To provide wallet functionality and services
+- **Legitimate Interest**: For security, fraud prevention, and service improvement
+- **Legal Obligation**: When required by applicable laws
+
+## 13. California Privacy Rights (CCPA)
+
+California residents have additional rights under the California Consumer Privacy Act:
+- **Right to Know**: Request information about data collection and sharing
+- **Right to Delete**: Request deletion of personal information
+- **Right to Opt-Out**: Opt out of data sales (we do not sell your data)
+- **Right to Non-Discrimination**: Not be discriminated against for exercising your rights
+
+## 14. Security Incident Response
+
+In the event of a security incident affecting your data, we will:
+- **Immediate Response**: Take immediate action to contain the incident
+- **Notification**: Notify affected users within 72 hours
+- **Investigation**: Conduct a thorough investigation of the incident
+- **Remediation**: Implement measures to prevent future incidents
+- **Regulatory Reporting**: Report to relevant authorities as required by law
+
+## 15. Wallet Security Best Practices
+
+To protect your wallet and data:
+- **Strong Passwords**: Use unique, strong passwords for your wallet
+- **Recovery Phrase**: Store your recovery phrase securely offline
+- **Regular Updates**: Keep the extension updated to the latest version
+- **Secure Device**: Use a secure device with updated software
+- **Backup**: Regularly backup your wallet data
+- **Suspicious Activity**: Report any suspicious activity immediately
+
+---
+
+**Note**: This privacy policy is specific to the ChainBag Wallet Chrome extension. For additional privacy information related to our website or other services, please refer to our main privacy policy at https://chainbag.io/privacy.
